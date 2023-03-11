@@ -14,3 +14,8 @@
 
 
 * [Linkedin](https://www.linkedin.com/in/douglas-castro-87886255/)
+
+
+## Projetos
+
+### Como agendar Jobs ou Transformações criadas no PDI usando o Airflow -> [Clique aqui](encurtador.com.br/fqxZ2)
