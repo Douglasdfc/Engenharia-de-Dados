@@ -4,4 +4,4 @@
 
 ##### A idéia aqui é sempre focar em soluções Open Source para que todos tenham possibilidade de acesso sem se preocupar com licenças de uso.
 
-##### Abaixo trago projetos que possam te ajudar com a utilização de diversas tecnologias. w
+##### Abaixo trago projetos que possam te ajudar com a utilização de diversas tecnologias. 
